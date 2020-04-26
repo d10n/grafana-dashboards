@@ -1,0 +1,11 @@
+._*
+*~
+*.swp
+*.bak
+*.tmp
+.idea/
+tmp
+.metadata
+.DS_Store
+.settings
+.vscode/
